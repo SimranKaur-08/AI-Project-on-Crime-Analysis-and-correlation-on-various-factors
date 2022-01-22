@@ -8,6 +8,8 @@ The 2011 literacy data of India is taken to draw some amazing insights from the 
 ![image](https://user-images.githubusercontent.com/68663325/150633025-1194907d-f7a7-4868-8f35-65c5a463ffa1.png)
 
 and a state wise analysis as well.
+
+
 ![image](https://user-images.githubusercontent.com/68663325/150633035-34db21be-624d-4f47-aef6-1802e412d6a1.png)
 
 ![image](https://user-images.githubusercontent.com/68663325/150633039-72d7216c-01b9-472e-8352-71dcbcf0871b.png)
